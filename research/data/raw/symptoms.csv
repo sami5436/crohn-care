@@ -1,0 +1,45 @@
+symptom_id,user_id,timestamp,symptom,severity
+symp_1,user_123,2025-01-02 14:34:20,Abdominal Pain,7
+symp_2,user_123,2025-01-02 21:08:03,Bloating,5
+symp_3,user_123,2025-01-03 11:12:32,Fatigue,4
+symp_4,user_123,2025-01-03 18:48:09,Abdominal Pain,6
+symp_5,user_123,2025-01-06 11:01:30,Fatigue,8
+symp_6,user_123,2025-01-07 17:07:29,Abdominal Pain,4
+symp_8,user_123,2025-01-12 09:36:04,Fatigue,5
+symp_7,user_123,2025-01-12 18:01:54,Bloating,4
+symp_9,user_123,2025-01-14 08:32:22,Abdominal Pain,7
+symp_10,user_123,2025-01-20 18:23:05,Abdominal Pain,5
+symp_11,user_123,2025-01-26 15:59:22,Fatigue,7
+symp_13,user_123,2025-01-28 15:13:42,Fatigue,5
+symp_12,user_123,2025-01-28 19:55:22,Fatigue,5
+symp_14,user_123,2025-01-30 08:17:12,Urgency,4
+symp_15,user_123,2025-01-30 17:11:22,Nausea,8
+symp_16,user_123,2025-02-03 20:52:23,Nausea,3
+symp_18,user_123,2025-02-04 12:00:18,Nausea,8
+symp_17,user_123,2025-02-04 21:39:50,Nausea,6
+symp_19,user_123,2025-02-05 13:28:54,Bloating,4
+symp_20,user_123,2025-02-15 10:33:47,Urgency,8
+symp_21,user_123,2025-02-17 14:47:27,Urgency,4
+symp_22,user_123,2025-02-18 12:51:38,Nausea,8
+symp_23,user_123,2025-02-18 14:43:00,Urgency,7
+symp_25,user_123,2025-02-24 11:57:25,Fatigue,7
+symp_24,user_123,2025-02-24 12:37:19,Fatigue,4
+symp_26,user_123,2025-03-03 12:00:55,Bloating,7
+symp_27,user_123,2025-03-05 14:10:15,Urgency,8
+symp_28,user_123,2025-03-05 14:12:15,Bloating,5
+symp_29,user_123,2025-03-10 12:22:44,Bloating,3
+symp_31,user_123,2025-03-11 09:02:41,Abdominal Pain,4
+symp_30,user_123,2025-03-11 16:23:59,Urgency,4
+symp_32,user_123,2025-03-14 21:33:50,Bloating,7
+symp_33,user_123,2025-03-16 13:39:31,Urgency,5
+symp_34,user_123,2025-03-19 11:56:00,Urgency,6
+symp_36,user_123,2025-03-20 09:53:26,Bloating,5
+symp_35,user_123,2025-03-20 12:52:11,Abdominal Pain,5
+symp_37,user_123,2025-03-24 10:55:21,Bloating,4
+symp_38,user_123,2025-03-25 08:54:21,Abdominal Pain,3
+symp_39,user_123,2025-03-25 11:11:32,Fatigue,3
+symp_40,user_123,2025-03-26 10:09:23,Nausea,8
+symp_41,user_123,2025-03-30 09:17:40,Bloating,7
+symp_42,user_123,2025-03-30 14:09:02,Nausea,8
+symp_44,user_123,2025-03-31 18:41:24,Abdominal Pain,8
+symp_43,user_123,2025-03-31 19:40:40,Bloating,5
