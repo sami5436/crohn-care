@@ -11,7 +11,7 @@ const Footer = () => {
 
         <div className="flex flex-col sm:flex-row sm:items-center gap-3 sm:gap-6 text-sm">
           <a
-            href="https://github.com/your-repo-link"
+            href="https://github.com/sami5436/crohn-care"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center hover:text-emerald-600 transition-colors"
