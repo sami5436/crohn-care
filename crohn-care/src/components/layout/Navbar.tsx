@@ -2,7 +2,6 @@ import { SignedIn, SignedOut, UserButton } from '@clerk/clerk-react'
 import { Link, NavLink } from 'react-router-dom'
 import { useState } from 'react'
 import { Menu, X, User } from 'lucide-react'
-import { Button } from '../ui/Button'
 
 const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false)
