@@ -1,5 +1,6 @@
 import { cn } from '../../utils/cn'
-import { ButtonHTMLAttributes, forwardRef } from 'react'
+import type { ButtonHTMLAttributes } from 'react';
+import { forwardRef } from 'react';
 
 type ButtonProps = ButtonHTMLAttributes<HTMLButtonElement> & {
   variant?: 'default' | 'outline' | 'ghost'
