@@ -29,12 +29,12 @@ const Home = () => {
           </p>
           
           <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
-            <Link to="/sign-up" className="group">
+            <Link to="/product" className="group">
               <Button 
                 size="lg" 
                 className="bg-gradient-to-r from-emerald-600 to-teal-600 hover:from-emerald-700 hover:to-teal-700 text-white px-8 py-4 text-lg font-semibold shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-300 border-0 cursor-pointer"
               >
-                Get Started Free
+                Learn More
                 <span className="ml-2 group-hover:translate-x-1 transition-transform duration-300">→</span>
               </Button>
             </Link>
@@ -99,9 +99,9 @@ const Home = () => {
             Ready to take control of your health?
           </h2>
           <p className="text-xl text-emerald-100 mb-8 max-w-2xl mx-auto">
-            Join thousands of others who are already using CrohnCare to manage their IBD journey with confidence.
+            Join others who are already using CrohnCare to manage their IBD journey with confidence.
           </p>
-          <Link to="/sign-up">
+          <Link to="/dashboard">
             <Button 
               size="lg" 
               className="bg-black text-emerald-600 hover:bg-gray-600 px-8 py-4 text-lg font-semibold shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-300 border-0 cursor-pointer"
